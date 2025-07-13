@@ -1,0 +1,17 @@
+	
+manifest_version	3
+name	"Social Media Blockr"
+version	"0.1"
+description	"Blocks access to Facebook and X.com (Twitter)."
+permissions	
+0	"declarativeNetRequest"
+1	"declarativeNetRequestWithHostAccess"
+host_permissions	
+0	"*://*.facebook.com/*"
+1	"*://facebook.com/*"
+2	"*://*.x.com/*"
+3	"*://x.com/*"
+background	
+service_worker	"background.js"
+action	
+default_title	"Social Media Blockr"
