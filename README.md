@@ -1,4 +1,4 @@
-Sure! Here's a complete and well-formatted `README.md` for your **Social Media Blockr v0.1** Chrome extension repository. It includes:
+ **Social Media Blockr v0.1** Chrome extension repository. It includes:
 
 * Overview
 * Installation steps
@@ -160,20 +160,3 @@ It does **not track**, **store**, or **transmit** any user data.
 MIT License — free to use, modify, and share.
 
 ---
-
-## ✍️ Author
-
-**Social Media Blockr** by \[Your Name]
-For ideas, bugs, or contributions, feel free to open an issue or PR.
-
----
-
-```
-
----
-
-Let me know if you want:
-- Your name/handle filled in
-- A ZIP archive prepared
-- A version that blocks all social media by default (Reddit, TikTok, Instagram, etc.)
-```
