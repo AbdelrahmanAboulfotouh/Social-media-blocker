@@ -1,4 +1,4 @@
- **Social Media Blockr v0.1** Chrome extension repository. It includes:
+ **Social Media Blocker v0.1** Chrome extension repository. It includes:
 
 * Overview
 * Installation steps
